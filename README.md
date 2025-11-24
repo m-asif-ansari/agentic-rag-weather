@@ -122,6 +122,9 @@ pytest -v
 ```text
 project-root/
 │
+├── demo_runs/
+│   └── supporting files/          # relevant evidence of demo runs
+│
 ├── db/
 │   └── qdrant_db/                 # Local Qdrant vector database storage
 │       └── collection/            # Qdrant collection data
@@ -145,5 +148,6 @@ project-root/
 ├── mini_reqs.txt                  # Minimal dependencies list
 ├── past_conversations.json        # Saved conversation logs
 ├── README.md                      # Project README file
+├── orchis_description.pdf         # Sample PDF used for testing
 └── requirements.txt               # Full Python dependencies
 ```
