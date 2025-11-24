@@ -15,4 +15,86 @@
     },
     "pdf_context": "",
     "final_response": "Okay, for Delhi right now, it's a mild 17 degrees Celsius. It actually feels a touch cooler, closer to 16.5 degrees. The main thing to note is that it's quite hazy out there, and there's no wind to speak of, which is likely contributing to that."
+}{
+    "user_query": "whats the weather in delhi?",
+    "intent": "weather",
+    "city": "delhi",
+    "weather_data": {
+        "city": "Delhi",
+        "temperature": 15.05,
+        "feels_like": 14.49,
+        "temp_min": 15.05,
+        "temp_max": 15.05,
+        "humidity": 72,
+        "description": "haze",
+        "wind_speed": 0,
+        "timestamp": "2025-11-24T21:54:42.758509"
+    },
+    "pdf_context": "",
+    "final_response": "Alright, in Delhi, it's currently **15 degrees Celsius**, but it **feels like 14.5 degrees**. You've got some **haze** around, and the **humidity is quite high at 72%**. There's **no wind** to speak of."
+}{
+    "user_query": "how's the climate in the capital of brasil",
+    "intent": "weather",
+    "city": "Bras\u00edlia",
+    "weather_data": {
+        "city": "Bras\u00edlia",
+        "temperature": 26.46,
+        "feels_like": 26.46,
+        "temp_min": 26.46,
+        "temp_max": 27.25,
+        "humidity": 71,
+        "description": "broken clouds",
+        "wind_speed": 2.21,
+        "timestamp": "2025-11-24T22:04:13.449748"
+    },
+    "pdf_context": "",
+    "final_response": "Okay, let's check on Bras\u00edlia for you!\n\nRight now, it's a warm **26.46\u00b0C**, and it feels just like that too. You've got **broken clouds** overhead, with humidity at **71%**. There's just a light breeze, around 2.21 m/s.\n\nOverall, it sounds quite pleasant and comfortable there!"
+}{
+    "user_query": "whats orchis?",
+    "intent": "pdf",
+    "city": " ",
+    "weather_data": {},
+    "pdf_context": "Modelled shape of Orchis from its lightcurveDiscovery[1]Discovered byK. ReinmuthDiscovery siteHeidelberg Obs.Discovery date30 August 1927DesignationsMPC designation(1080) OrchisPronunciation/\u02c8\u0254\u02d0rk\u026as/[2]Named afterOrchis(flowering plant)[3]Alternativedesignations1927 QB \u00b7 1955 DTA906 BHMinor planetcategorymain-belt\u00b7(inner)[4]background[5]Orbital characteristics[1]Epoch 4 September 2017 (JD 2458000.5)Uncertainty parameter 0Observation arc111.76 yr (40,821 days)Aphelion3.0452 AUPerihelion1.7924 AUSemi-major axis2.4188 AUEccentricity0.2590Orbital period(sidereal)3.76 yr (1,374 days)Mean anomaly278.54\u00b0\n1080 Orchis1080 Orchis1080 Orchis, provisional designation 1927 QB,is  a  dark  background  asteroid  from  the  innerregions of the asteroid belt. It was discovered on30  August  1927,  by  German  astronomer  KarlReinmuth  at  the  Heidelberg  Observatory  insouthwest Germany.[18] The carbonaceous F-typeasteroid has a rotation period of 16.1 hours andmeasures approximately 22 kilometers (14 miles)in  diameter.  It  was  named  after  the  floweringplant Orchis.[3]Orchis is a non-family asteroid of the main belt'sbackground population.[5] It orbits the Sun in theinner asteroid belt  at a  distance  of 1.8\u20133.0  AUonce  every  3  years  and  9  months  (1,374  days;semi-major  axis  of  2.42  AU).  Its  orbit  has  aneccentricity of 0.26 and an inclination of 5\u00b0 withrespect  to  the  ecliptic.[1] The  asteroid  was  firstobserved as A906 BH at Heidelberg in January1906. The body's observation arc begins with itsofficial discovery observation in August 1927.[18]This minor planet was named after the floweringplant Orchis, a genus in the orchid family.  Theofficial  naming  citation  was  mentioned  in  TheNames of the Minor Planets by Paul Herget  in1955 (H 102).[3]Due  to  his  many  discoveries,  Karl  Reinmuthsubmitted a large list of 66 newly named asteroidsin the early 1930s. The list covered his discoverieswith numbers between (1009) and (1200).  Thislist  also  contained  a  sequence  of  28  asteroids,starting with 1054 Forsytia, that were all named\nOrbit and classificationNamingReinmuth's flowers\n1080 Orchis - Wikipediahttps://en.wikipedia.org/wiki/1080_Orchis\n1 of 524-11-25, 10:14 pm\n\nMean motion0\u00b0 15m 43.2s / dayInclination4.5873\u00b0Longitude ofascending node2.0437\u00b0Argument ofperihelion57.028\u00b0Physical characteristicsMean diameter20.755 \u00b1 8.470 km[6]21.797 \u00b1 0.130 km[7]21.86 \u00b1 0.26 km[8]22.918 \u00b1 0.241 km[9]23.28 \u00b1 1.7 km[4][10]23.53 \u00b1 6.59 km[11]24.62 \u00b1 6.75 km[12]Synodic rotationperiod16.061 \u00b1 0.004h[13]16.0657 \u00b1 0.0005 h[14]16.075 \u00b1 0.0207 h[15]16.1 \u00b1 0.1 h[16]Pole eclipticlatitude(255.0\u00b0, 27.0\u00b0) (\u03bb1/\u03b21)[17](71.0\u00b0, 28.0\u00b0) (\u03bb2/\u03b22)[17]Geometric albedo0.029 \u00b1 0.002[7]0.03 \u00b1 0.02[11]0.031 \u00b1 0.032[12]0.0331 \u00b1 0.0028[9]0.0430 \u00b1 0.007[4][10]0.0508 \u00b1 0.0499[6]0.051 \u00b1 0.001[8]Spectral typeTholen = F[1][4]B\u2013V = 0.624[1]U\u2013B = 0.206[1]Absolutemagnitude (H)12.133 \u00b1 0.002(R)[15]\u00b712.20[1][4][8][9][10][11]\u00b712.32[6]\u00b7 12.43[12]\nafter plants, in particular flowering plants(alsosee  list  of  minor  planets  named  after  animalsand plants).[19]In  the  Tholen  classification,  Orchis is  anuncommon F-type asteroid, a type which belongsto the wider C-complex of carbonaceous asteroids.[1][4]In  2010,  three  rotational  lightcurves  of  Orchiswere  obtained  from  photometric  observations.Lightcurve  analysis  gave  a  rotation  period  of16.061, 16.075 and 16.1 hours with a brightnessamplitude of between 0.23 and 0.31 magnitude(U=2+/2/3).[13][15][16] A modeled lightcurve basedon optical data from a large collaboration networkfound a concurring period of 16.0657 hours andtwo spin axis of (255.0\u00b0, 27.0\u00b0) and (71.0\u00b0, 28.0\u00b0)in ecliptic coordinates (\u03bb, \u03b2).[14]According  to  the  surveys  carried  out  by  theInfrared  Astronomical  Satellite  IRAS,  theJapanese  Akari  satellite  and  the  NEOWISEmission  of  NASA's  Wide-field  Infrared  SurveyExplorer,  Orchis measures  between  20.755  and24.62 kilometers in diameter and its surface hasan albedo between 0.029 and 0.051.[6][7][8][9][10][11][12] The  Collaborative  Asteroid  LightcurveLink adopts the results obtained by IRAS, that is,an  albedo  of  0.0430  and  a  diameter  of  23.28kilometers based on an absolute magnitude of 12.2.[4][10]1. \"JPL Small-Body Database Browser: 1080 Orchis (1927 QB)\" (https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001080) (2017-10-29 last obs.). Jet Propulsion Laboratory. Retrieved28 November 2017.2. \"orchis\" (https://www.oed.com/search/dictionary/?q=orchis). Oxford English Dictionary(Online ed.). Oxford University Press.(Subscription or participating institution membership (https://www.oed.com/public/login/loggingin#withyourlibrary) required.)\nPhysical characteristicsRotation period and polesDiameter and albedoReferences\n1080 Orchis - Wikipediahttps://en.wikipedia.org/wiki/1080_Orchis\n2 of 524-11-25, 10:14 pm",
+    "final_response": "\"Orchis\" can refer to two main things based on the provided context:\n\n1.  **1080 Orchis:** This is a dark background asteroid located in the inner regions of the asteroid belt. It was discovered on August 30, 1927, by German astronomer Karl Reinmuth. It measures approximately 22 kilometers (14 miles) in diameter and has a rotation period of about 16.1 hours.\n2.  **Orchis (flowering plant):** This is a genus of flowering plants belonging to the orchid family. The asteroid 1080 Orchis was named after this plant."
+}{
+    "user_query": "what is the orbit and classification of orchis planet?",
+    "intent": "pdf",
+    "city": " ",
+    "weather_data": {},
+    "pdf_context": "Mean motion0\u00b0 15m 43.2s / dayInclination4.5873\u00b0Longitude ofascending node2.0437\u00b0Argument ofperihelion57.028\u00b0Physical characteristicsMean diameter20.755 \u00b1 8.470 km[6]21.797 \u00b1 0.130 km[7]21.86 \u00b1 0.26 km[8]22.918 \u00b1 0.241 km[9]23.28 \u00b1 1.7 km[4][10]23.53 \u00b1 6.59 km[11]24.62 \u00b1 6.75 km[12]Synodic rotationperiod16.061 \u00b1 0.004h[13]16.0657 \u00b1 0.0005 h[14]16.075 \u00b1 0.0207 h[15]16.1 \u00b1 0.1 h[16]Pole eclipticlatitude(255.0\u00b0, 27.0\u00b0) (\u03bb1/\u03b21)[17](71.0\u00b0, 28.0\u00b0) (\u03bb2/\u03b22)[17]Geometric albedo0.029 \u00b1 0.002[7]0.03 \u00b1 0.02[11]0.031 \u00b1 0.032[12]0.0331 \u00b1 0.0028[9]0.0430 \u00b1 0.007[4][10]0.0508 \u00b1 0.0499[6]0.051 \u00b1 0.001[8]Spectral typeTholen = F[1][4]B\u2013V = 0.624[1]U\u2013B = 0.206[1]Absolutemagnitude (H)12.133 \u00b1 0.002(R)[15]\u00b712.20[1][4][8][9][10][11]\u00b712.32[6]\u00b7 12.43[12]\nafter plants, in particular flowering plants(alsosee  list  of  minor  planets  named  after  animalsand plants).[19]In  the  Tholen  classification,  Orchis is  anuncommon F-type asteroid, a type which belongsto the wider C-complex of carbonaceous asteroids.[1][4]In  2010,  three  rotational  lightcurves  of  Orchiswere  obtained  from  photometric  observations.Lightcurve  analysis  gave  a  rotation  period  of16.061, 16.075 and 16.1 hours with a brightnessamplitude of between 0.23 and 0.31 magnitude(U=2+/2/3).[13][15][16] A modeled lightcurve basedon optical data from a large collaboration networkfound a concurring period of 16.0657 hours andtwo spin axis of (255.0\u00b0, 27.0\u00b0) and (71.0\u00b0, 28.0\u00b0)in ecliptic coordinates (\u03bb, \u03b2).[14]According  to  the  surveys  carried  out  by  theInfrared  Astronomical  Satellite  IRAS,  theJapanese  Akari  satellite  and  the  NEOWISEmission  of  NASA's  Wide-field  Infrared  SurveyExplorer,  Orchis measures  between  20.755  and24.62 kilometers in diameter and its surface hasan albedo between 0.029 and 0.051.[6][7][8][9][10][11][12] The  Collaborative  Asteroid  LightcurveLink adopts the results obtained by IRAS, that is,an  albedo  of  0.0430  and  a  diameter  of  23.28kilometers based on an absolute magnitude of 12.2.[4][10]1. \"JPL Small-Body Database Browser: 1080 Orchis (1927 QB)\" (https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001080) (2017-10-29 last obs.). Jet Propulsion Laboratory. Retrieved28 November 2017.2. \"orchis\" (https://www.oed.com/search/dictionary/?q=orchis). Oxford English Dictionary(Online ed.). Oxford University Press.(Subscription or participating institution membership (https://www.oed.com/public/login/loggingin#withyourlibrary) required.)\nPhysical characteristicsRotation period and polesDiameter and albedoReferences\n1080 Orchis - Wikipediahttps://en.wikipedia.org/wiki/1080_Orchis\n2 of 524-11-25, 10:14 pm\n\nModelled shape of Orchis from its lightcurveDiscovery[1]Discovered byK. ReinmuthDiscovery siteHeidelberg Obs.Discovery date30 August 1927DesignationsMPC designation(1080) OrchisPronunciation/\u02c8\u0254\u02d0rk\u026as/[2]Named afterOrchis(flowering plant)[3]Alternativedesignations1927 QB \u00b7 1955 DTA906 BHMinor planetcategorymain-belt\u00b7(inner)[4]background[5]Orbital characteristics[1]Epoch 4 September 2017 (JD 2458000.5)Uncertainty parameter 0Observation arc111.76 yr (40,821 days)Aphelion3.0452 AUPerihelion1.7924 AUSemi-major axis2.4188 AUEccentricity0.2590Orbital period(sidereal)3.76 yr (1,374 days)Mean anomaly278.54\u00b0\n1080 Orchis1080 Orchis1080 Orchis, provisional designation 1927 QB,is  a  dark  background  asteroid  from  the  innerregions of the asteroid belt. It was discovered on30  August  1927,  by  German  astronomer  KarlReinmuth  at  the  Heidelberg  Observatory  insouthwest Germany.[18] The carbonaceous F-typeasteroid has a rotation period of 16.1 hours andmeasures approximately 22 kilometers (14 miles)in  diameter.  It  was  named  after  the  floweringplant Orchis.[3]Orchis is a non-family asteroid of the main belt'sbackground population.[5] It orbits the Sun in theinner asteroid belt  at a  distance  of 1.8\u20133.0  AUonce  every  3  years  and  9  months  (1,374  days;semi-major  axis  of  2.42  AU).  Its  orbit  has  aneccentricity of 0.26 and an inclination of 5\u00b0 withrespect  to  the  ecliptic.[1] The  asteroid  was  firstobserved as A906 BH at Heidelberg in January1906. The body's observation arc begins with itsofficial discovery observation in August 1927.[18]This minor planet was named after the floweringplant Orchis, a genus in the orchid family.  Theofficial  naming  citation  was  mentioned  in  TheNames of the Minor Planets by Paul Herget  in1955 (H 102).[3]Due  to  his  many  discoveries,  Karl  Reinmuthsubmitted a large list of 66 newly named asteroidsin the early 1930s. The list covered his discoverieswith numbers between (1009) and (1200).  Thislist  also  contained  a  sequence  of  28  asteroids,starting with 1054 Forsytia, that were all named\nOrbit and classificationNamingReinmuth's flowers\n1080 Orchis - Wikipediahttps://en.wikipedia.org/wiki/1080_Orchis\n1 of 524-11-25, 10:14 pm",
+    "final_response": "Orchis, officially designated 1080 Orchis, is not a planet but rather a dark background asteroid.\n\nHere's its orbit and classification:\n\n**Orbit:**\n*   **Location:** It orbits the Sun in the inner regions of the asteroid belt.\n*   **Distance from Sun:** Its orbit ranges from 1.8 AU (perihelion) to 3.0 AU (aphelion).\n*   **Orbital Period:** It completes one orbit around the Sun every 3.76 years (or 3 years and 9 months), which is approximately 1,374 days.\n*   **Semi-major axis:** 2.4188 AU.\n*   **Eccentricity:** Its orbit has an eccentricity of 0.2590.\n*   **Inclination:** Its orbit is inclined by 4.5873\u00b0 with respect to the ecliptic.\n\n**Classification:**\n*   **Type:** It is classified as an asteroid and a minor planet.\n*   **Category:** It is a non-family asteroid belonging to the main belt's background population.\n*   **Tholen Classification:** In the Tholen classification system, Orchis is an uncommon F-type asteroid, which is part of the wider C-complex of carbonaceous asteroids."
+}{
+    "user_query": "whats the weather in delhi?",
+    "intent": "weather",
+    "city": "delhi",
+    "weather_data": {
+        "city": "Delhi",
+        "temperature": 15.05,
+        "feels_like": 14.49,
+        "temp_min": 15.05,
+        "temp_max": 15.05,
+        "humidity": 72,
+        "description": "haze",
+        "wind_speed": 0,
+        "timestamp": "2025-11-24T22:20:04.159345"
+    },
+    "pdf_context": "",
+    "final_response": "Alright, for Delhi right now, it's about 15 degrees Celsius. It feels a little cooler though, more like 14.5\u00b0C. The main thing to note is that it's hazy out there. Humidity is pretty high at 72%, and there's no wind at all."
+}{
+    "user_query": "whats the weather in the capital of brazil?",
+    "intent": "weather",
+    "city": "Bras\u00edlia",
+    "weather_data": {
+        "city": "Bras\u00edlia",
+        "temperature": 23.51,
+        "feels_like": 24.08,
+        "temp_min": 23.51,
+        "temp_max": 27.81,
+        "humidity": 83,
+        "description": "broken clouds",
+        "wind_speed": 3.09,
+        "timestamp": "2025-11-24T22:20:26.791438"
+    },
+    "pdf_context": "",
+    "final_response": "Okay, let's check Bras\u00edlia!\n\nCurrently, it's **23.51\u00b0C** with **broken clouds**. It feels a little warmer, around **24.08\u00b0C**.\n\nYou can expect the temperature to reach a high of about **27.81\u00b0C** today. The humidity is quite high at **83%**, and there's a light breeze blowing at **3.09 m/s**."
 }
