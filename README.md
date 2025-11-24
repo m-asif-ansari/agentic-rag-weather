@@ -105,9 +105,9 @@ Then open your browser to `http://localhost:8501`
 
 The application includes comprehensive unit tests:
 
-- **TestWeatherAPI**: Tests weather API integration
-- **TestRAGSystem**: Tests RAG initialization and operations
-- **TestAgenticPipeline**: Tests LangGraph workflow
+- **test_weather_api_successful_response**: Tests weather API integration
+- **test_llm_weather_response_generation**: Tests LangGraph workflow with Weather operation
+- **test_retrieval_successful**: Tests LangGraph workflow with PDF RAG operation
 
 ### Running Tests
 
