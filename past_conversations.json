@@ -1,0 +1,18 @@
+{
+    "user_query": "whats the weather in delhi",
+    "intent": "weather",
+    "city": "delhi",
+    "weather_data": {
+        "city": "Delhi",
+        "temperature": 17.05,
+        "feels_like": 16.56,
+        "temp_min": 17.05,
+        "temp_max": 17.05,
+        "humidity": 67,
+        "description": "haze",
+        "wind_speed": 0,
+        "timestamp": "2025-11-24T20:28:12.354106"
+    },
+    "pdf_context": "",
+    "final_response": "Okay, for Delhi right now, it's a mild 17 degrees Celsius. It actually feels a touch cooler, closer to 16.5 degrees. The main thing to note is that it's quite hazy out there, and there's no wind to speak of, which is likely contributing to that."
+}

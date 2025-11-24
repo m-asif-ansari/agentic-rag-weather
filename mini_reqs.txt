@@ -1,0 +1,11 @@
+streamlit
+langchain
+langgraph
+langsmith
+langchain-community
+langchain-google-genai
+langchain-qdrant
+qdrant-client
+pypdf
+pytest
+pytest-mock
