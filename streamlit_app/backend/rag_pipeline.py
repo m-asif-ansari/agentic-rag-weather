@@ -84,5 +84,6 @@ def empty_vector_store():
 
 
 if __name__ =='__main__':
+    print("calling function")
     # print(load_and_index_pdf("temp.pdf"))
     # print(retrieve_context("whats this document about?", 3))
